@@ -1,0 +1,9 @@
+{
+    "id": 1,
+    "name": "Billy",
+    "username": "bilred",
+    "birthdate": "1990-02-28",
+    "balance": 21.5,
+    "numBet": 0,
+    "numOfWin": 0
+}

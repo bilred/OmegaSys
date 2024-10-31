@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Billy1",
+        "username": "bilred1",
+        "balance": 100.0,
+        "numBet": 6,
+        "numOfWin": 2
+    },
+    {
+        "name": "Billy2",
+        "username": "bilred2",
+        "balance": 11.5,
+        "numBet": 2,
+        "numOfWin": 1
+    }
+]

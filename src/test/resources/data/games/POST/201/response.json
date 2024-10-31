@@ -1,0 +1,8 @@
+{
+    "id": 1,
+    "name": "Game 1",
+    "chanceOfWinning": 0.5,
+    "winningMultiplier": 2,
+    "maxBet": 5,
+    "minBet": 0
+}
